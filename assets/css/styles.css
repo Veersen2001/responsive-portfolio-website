@@ -478,6 +478,8 @@ dark-theme::-webkit-scrollbar-thumb:hover{
 .work__img{
    filter: grayscale(1);
   transition: filter .5s, transform .5s;
+  min-height: 300px;
+  
 }
 
 .work__icon{
